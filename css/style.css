@@ -1,0 +1,50 @@
+/* BODY STRUCTURE  */
+body{	
+	background: url(../images/bg.jpeg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;	
+}
+.contianer{
+	background: transparent;
+}
+#footer{
+	background-color: whitesmoke;
+	padding: 10px;
+	margin-top:28%;
+}
+
+/* FORM ELEMENT SECTION  */
+.search{
+	height: 60px;	
+}
+
+.search-textbx{
+	font-family: lucida;
+	font-size: 20px;
+}
+.img{
+	margin-right:50px;
+}
+
+/*  TYPOGRAPHY  */
+.search-text{
+	margin:5px;
+	font-family: lucida;
+	font-size: 15px;
+}
+.error{
+	color: #0066CC;
+	font-style: italic;
+}
+.logo{
+	text-decoration:none;
+	color: #0066CC;
+	font-family:Courier; font-size: 40px;
+	letter-spacing: 4px;
+}
+.logo:hover{
+text-decoration: none;
+color:#0066CC;
+}
